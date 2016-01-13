@@ -1,0 +1,22 @@
+{
+  "name": "pragprog",
+  "version": "1.0.0",
+  "description": "The pragprog tutorial",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "dev": "webpack-dev-server --port 3000"
+  },
+  "author": "Ryan Swapp",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.23.0",
+    "elm-webpack-loader": "^1.1.1",
+    "extract-text-webpack-plugin": "^0.9.1",
+    "file-loader": "^0.8.5",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
