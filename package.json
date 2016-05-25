@@ -9,9 +9,9 @@
   },
   "author": "Ryan Swapp",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "css-loader": "^0.23.0",
-    "elm-webpack-loader": "^1.1.1",
+    "elm-webpack-loader": "3.0.3",
     "extract-text-webpack-plugin": "^0.9.1",
     "file-loader": "^0.8.5",
     "style-loader": "^0.13.0",
